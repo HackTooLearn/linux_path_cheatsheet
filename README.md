@@ -1,21 +1,23 @@
-# linux_path_cheatsheet
+# Linux_Path_Cheatsheet
 
-#Important Folders in Linux
+## Important Folders in Linux
 
+<br>
 
-
-/bin      USER BINARIES
-/sbn      SYSTEM BINARIES
-/etc      CONFIGURATION FILES
-/dev      DEVICE FILES
-/proc     PROCESS INFORMATION
-/var      VARIABLE FILES
-/tmp      TEMPORARY FILES
-/usr      USER SYS RESOURCES
-/home     HOME DIRECTORIES
-/boot     BOOT LOADER FILES
-/lib      SYSTEM LIBRARIES
-/opt      OPTIONAL ADD ON APPS
-/mnt      MOUNT DIRECTORY
-/media    REMOVABLE DEVICES
-/srv      SERVICE DATA
+ FOLDER NAME  |  CONTENTS OF FOLDER  
+|-----------|:-----------:
+| `/bin` | user binaries 
+| `/sbn` | system binaries
+`/etc` | configuration files
+`/dev` | device files
+`/proc` | process information
+`/var` | variable files
+`/tmp` | temporary files
+`/usr` | user sys resources
+`/home` | home directories
+`/boot` | boot loader files
+`/lib` | system libraries
+`/opt` | optional add on apps
+`/mnt` | mount directory
+`/media` | removable devices
+`/srv` | service data
